@@ -47,4 +47,5 @@ Shell | صدفة
 Template | قالب
 Templating | قولبة
 Terminal | طرفية
+Table | طاولة
 View | منظور | طريقة عرض
